@@ -1,7 +1,7 @@
 **Prerequisites**:
-Docker 
-Minikube
-kubectl
++ Docker 
++ Minikube
++ kubectl
 
 **Steps**:
 Write pythoncode for flask app [pythonfile.py] along with reequirements [req.txt]
